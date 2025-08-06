@@ -65,9 +65,6 @@ def create_acc(create_account_module: CreateAccountModule, db: db_dependency):
         logger.error(f"Error in create_acc() : {e}")
         
 
-
-
-
 # deposit
 def deposit(deposit_module : DepositModule, db: db_dependency):
     
@@ -86,7 +83,7 @@ def deposit(deposit_module : DepositModule, db: db_dependency):
         
         logger.debug("Deposit successfully : [/deposit]")
         # return {"Msg": "Deposit Successfully"}
-        return JSONResponse(content={"Msg": "Deposit Successfully"}, status_code=201)
+        return JSONResponse(content={"Msg": "Deposit Successfully", 'amount': deposit_module.amount}, status_code=201)
     
     except Exception as e:                    
         logger.error(f"Error in deposit() : {e}") 
