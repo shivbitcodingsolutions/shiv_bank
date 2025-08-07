@@ -72,22 +72,25 @@ def deposit(deposit_module : DepositModule, db: db_dependency):
 
     try:
         
-        
         logger.debug("All deposit details get by deposit_amount(): [/deposit]")
         account_number = deposit_module.account_number
-        user = db.query(AccountUser).filter(AccountUser.account_number == account_number)
-        user[0].balance = float(user[0].balance) + deposit_module.amount
-        log_transaction(account_number, 'deposit', deposit_module.amount)
-        db.commit()
-        db.close()
+        user = db.query(AccountUser).filter(AccountUser.account_number == account_number).first()
         
-        logger.debug("Deposit successfully : [/deposit]")
-        # return {"Msg": "Deposit Successfully"}
-        return JSONResponse(content={"Msg": "Deposit Successfully", 'amount': deposit_module.amount}, status_code=201)
+        if user:
+            user.balance = float(user.balance) + deposit_module.amount
+            log_transaction(account_number, 'deposit', deposit_module.amount)
+            db.commit()
+            db.close()
+            logger.debug("Deposit successfully : [/deposit]")
+            return JSONResponse(content={"Msg": "Deposit Successfully", 'amount': deposit_module.amount}, status_code=status.HTTP_201_CREATED)
+        
+        else:
+            logger.error("Account not found")
+            return JSONResponse(content={"Msg": "Account not found", 'amount': deposit_module.amount, 'status_code': 404}, status_code=status.HTTP_404_NOT_FOUND)
     
     except Exception as e:                    
         logger.error(f"Error in deposit() : {e}") 
-        return HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Account not found")
+
 
 
 # withdraw
@@ -99,30 +102,29 @@ def withdraw(withdraw_module : WithdrawModule, db: db_dependency):
         
         logger.debug("All withdraw details get by withdraw_amount(): [/withdraw]")
         account_number = withdraw_module.account_number
-        user = db.query(AccountUser).filter(AccountUser.account_number == account_number)
-        result = user[0].balance
-        if result:
-            if result >= withdraw_module.amount:
-                user[0].balance = float(user[0].balance) - withdraw_module.amount
-                log_transaction(account_number, 'withdraw', withdraw_module.amount)
-                db.commit()
-                db.close()
-                logger.debug("Withdrawal successful [/withdraw]")
-                # return {"Msg": "Withdraw Successfully"}
-                return JSONResponse(content={"Msg": "Withdraw Successfully"}, status_code=status.HTTP_201_CREATED)
-            else:
-                logger.debug("Insufficient balance [/withdraw]")
-                # return {"Msg": "Insufficient balance"}
-                return JSONResponse(content={"Msg": "Insufficient balance"}, status_code=status.HTTP_400_BAD_REQUEST)
+        user = db.query(AccountUser).filter(AccountUser.account_number == account_number).first()
+        
+        if user:
+            result = user.balance
+            if result:
+                if result >= withdraw_module.amount:
+                    user.balance = float(user.balance) - withdraw_module.amount
+                    log_transaction(account_number, 'withdraw', withdraw_module.amount)
+                    db.commit()
+                    db.close()
+                    logger.debug("Withdrawal successful [/withdraw]")
+                    return JSONResponse(content={"Msg": "Withdraw Successfully",'amount': withdraw_module.amount}, status_code=status.HTTP_201_CREATED)
+                else:
+                    logger.debug("Insufficient balance [/withdraw]")
+                    return JSONResponse(content={"Msg": "Insufficient balance"}, status_code=status.HTTP_400_BAD_REQUEST)
                        
         else:
             logger.error("Account not found [/withdraw]")
-            # return {"Msg": "Account not found"}
-            return JSONResponse(content={"Msg": "Account not found"}, status_code=status.HTTP_404_NOT_FOUND)
+            return JSONResponse(content={"Msg": "Account not found", 'amount': withdraw_module.amount, 'status_code': 404}, status_code=status.HTTP_404_NOT_FOUND)
     
     except Exception as e: 
         logger.error(f"Error in withdraw_amount(): {e}")                   
-        return HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Account not found")  
+        return HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Account not found") 
 
 
 
@@ -136,21 +138,24 @@ def get_balance(view_balance_module : int, db: db_dependency):
         logger.debug("All get-balance details get by get_bal(): [/get-balance]")
         
         account_number = view_balance_module
-        user = db.query(AccountUser).filter(AccountUser.account_number == account_number)
-        result = user[0].balance
-        db.commit()
-        db.close()
-        if result:
+        user = db.query(AccountUser).filter(AccountUser.account_number == account_number).first()
+        
+        if user:
+            result = user.balance
+            db.commit()
+            db.close()
             logger.debug("Balance show to user [/get-balance]")
-            return {"Your Account balance: " : result}
+            return JSONResponse(content={"Your Account balance": result}, status_code=status.HTTP_200_OK)
+
         else:
             logger.error("Account not found")
-            return{"Msg" : "Account Not found"}
+            return JSONResponse(content={"Msg": "Account not found",'status_code': 404}, status_code=status.HTTP_404_NOT_FOUND)
         
     except Exception as e:
         logger.error(f"Error in get_balance(): {e}") 
-        return HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Account not found")   
+        return HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail="Enter valid account")   
 
+    
 
 # view-transaction-history
 def view_transaction_history(view_transaction_module : int, db: db_dependency):
@@ -172,18 +177,16 @@ def view_transaction_history(view_transaction_module : int, db: db_dependency):
                 demo_list.append(f"{h.timestamp} - {h.transaction_type} - {h.amount}")
                 
             logger.debug("ALl transaction history show to user [/view_transaction]")    
-            return { "Transaction History:" : demo_list}
+            return JSONResponse(content={"Transaction History": demo_list}, status_code=status.HTTP_200_OK)
             
         
         else:
-            logger.error("No transaction history found")
-            return HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="No transactions found.")
-            # return {"msg" : "No transactions found."}
+            logger.error("Account not found")
+            return JSONResponse(content={"Msg": "Account not found",'status_code': 404}, status_code=status.HTTP_404_NOT_FOUND)
+            
         
         # db.close()
         
     except Exception as e:   
         logger.error(f"Error in view_transaction_history(): {e}")
         return HTTPException(status_code=status.HTTP_500_INTERNAL_SERVER_ERROR, detail="Something wrong in function")
-    
-

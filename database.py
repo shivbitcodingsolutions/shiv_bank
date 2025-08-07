@@ -18,7 +18,3 @@ Base = declarative_base()
 #         print('Successfully connected to the PostgreSQL database')
 # except Exception as ex:
 #     print(f'Sorry failed to connect: {ex}')  
-    
-
-
-

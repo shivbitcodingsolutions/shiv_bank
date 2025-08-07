@@ -1099,3 +1099,1209 @@ IndexError: list index out of range
 2025-08-06 17:45:33,572 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
 2025-08-06 17:45:33,572 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 76
 2025-08-06 17:45:33,574 - logger - ERROR - Error in deposit() : list index out of range - 89
+2025-08-06 18:07:28,684 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-06 18:07:28,684 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-06 18:07:28,684 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 101
+2025-08-06 18:08:27,107 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-06 18:08:27,107 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-06 18:08:27,107 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 101
+2025-08-06 18:08:36,832 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-06 18:08:36,833 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-06 18:08:36,833 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 101
+2025-08-06 18:09:24,156 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-06 18:09:24,156 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-06 18:09:24,156 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 101
+2025-08-06 18:12:47,213 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-06 18:12:47,213 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-06 18:12:47,213 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 101
+2025-08-06 18:13:10,911 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-06 18:13:10,911 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-06 18:13:10,911 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 101
+2025-08-06 18:13:20,086 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-06 18:13:20,087 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-06 18:13:20,087 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 101
+2025-08-06 18:15:56,032 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-06 18:15:56,032 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-06 18:15:56,032 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 101
+2025-08-06 18:18:32,299 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-06 18:18:32,299 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-06 18:18:32,299 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 101
+2025-08-06 18:18:32,307 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-06 18:18:32,322 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-06 18:18:32,325 - logger - DEBUG - Deposit successfully : [/deposit] - 119
+2025-08-06 18:18:39,669 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-06 18:18:39,669 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-06 18:18:39,669 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 101
+2025-08-06 18:18:39,671 - logger - ERROR - Error in deposit() : list index out of range - 124
+2025-08-06 18:19:51,071 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-06 18:19:51,071 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-06 18:19:51,071 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 101
+2025-08-06 18:19:51,080 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-06 18:19:51,095 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-06 18:19:51,098 - logger - DEBUG - Deposit successfully : [/deposit] - 119
+2025-08-06 18:19:55,368 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-06 18:19:55,368 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-06 18:19:55,368 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 101
+2025-08-06 18:19:55,370 - logger - ERROR - Error in deposit() : list index out of range - 124
+2025-08-06 18:20:14,589 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-06 18:20:14,589 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-06 18:20:14,589 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 101
+2025-08-06 18:20:14,593 - logger - ERROR - Error in deposit() : list index out of range - 124
+2025-08-06 18:20:22,095 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-06 18:20:22,095 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-06 18:20:22,095 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 101
+2025-08-06 18:20:22,097 - logger - ERROR - Error in deposit() : list index out of range - 124
+2025-08-07 09:04:40,293 - logger - INFO - User just hit /get endpoint  - 19
+2025-08-07 09:05:01,644 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:05:01,644 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:05:01,645 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 101
+2025-08-07 09:05:01,653 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 09:05:01,667 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 09:05:01,669 - logger - DEBUG - Deposit successfully : [/deposit] - 120
+2025-08-07 09:05:10,901 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:05:10,901 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:05:10,901 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 101
+2025-08-07 09:05:10,903 - logger - ERROR - Error in deposit() : list index out of range - 125
+2025-08-07 09:06:47,146 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:06:47,146 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:06:47,146 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 101
+2025-08-07 09:06:47,152 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 09:06:47,163 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 09:06:47,166 - logger - DEBUG - Deposit successfully : [/deposit] - 122
+2025-08-07 09:06:53,069 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:06:53,070 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:06:53,070 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 101
+2025-08-07 09:06:53,072 - logger - ERROR - Error in deposit() : list index out of range - 127
+2025-08-07 09:07:48,697 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:07:48,697 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:07:48,697 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 101
+2025-08-07 09:07:48,701 - logger - ERROR - Error in deposit() : list index out of range - 127
+2025-08-07 09:08:16,401 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:08:16,401 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:08:16,402 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 101
+2025-08-07 09:08:16,406 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 09:08:16,422 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 09:08:16,425 - logger - DEBUG - Deposit successfully : [/deposit] - 122
+2025-08-07 09:08:21,743 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:08:21,743 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:08:21,743 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 101
+2025-08-07 09:08:21,745 - logger - ERROR - Error in deposit() : list index out of range - 127
+2025-08-07 09:19:17,764 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:19:17,765 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:19:17,765 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 101
+2025-08-07 09:27:57,890 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:27:57,891 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:27:57,891 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 09:27:57,895 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 09:27:57,908 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 09:27:57,911 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 09:28:06,191 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:28:06,191 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:28:06,191 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 09:28:06,193 - logger - ERROR - Error in deposit() : list index out of range - 140
+2025-08-07 09:29:03,981 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:29:03,981 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:29:03,981 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 09:29:10,189 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:29:10,189 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:29:10,189 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 09:29:10,190 - logger - ERROR - Error in deposit() : 'AccountUser' object is not subscriptable - 140
+2025-08-07 09:32:01,340 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:32:01,340 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:32:01,340 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 09:32:07,752 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:32:07,752 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:32:07,752 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 09:32:07,753 - logger - ERROR - Error in deposit() : 'AccountUser' object is not subscriptable - 140
+2025-08-07 09:33:05,772 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:33:05,772 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:33:05,772 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 09:33:05,775 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 09:33:05,793 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 09:33:05,796 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 09:33:12,933 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:33:12,933 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:33:12,933 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 09:33:24,912 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:33:24,913 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:33:24,913 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 09:33:24,915 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 09:33:24,918 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 09:33:24,921 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 09:33:28,210 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:33:28,210 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:33:28,210 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 09:35:32,134 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 09:35:32,134 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 09:35:32,134 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 09:35:32,144 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 09:35:32,157 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 09:35:32,157 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 09:35:49,656 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:35:49,656 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:35:49,656 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 09:35:49,659 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 09:35:49,664 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 09:35:49,667 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 09:36:06,252 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:36:06,252 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:36:06,252 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 09:36:06,254 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 09:36:06,255 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 09:36:06,256 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 09:36:23,802 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:36:23,802 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:36:23,802 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 09:36:23,804 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 09:36:23,805 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 09:36:23,806 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 09:37:19,108 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:37:19,108 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:37:19,108 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 09:37:25,125 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:37:25,125 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:37:25,125 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 09:37:25,127 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 09:37:25,130 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 09:37:25,131 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 09:38:07,423 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 09:38:07,423 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 09:38:07,423 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 09:38:07,426 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 09:38:07,427 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 09:38:07,428 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 09:39:59,428 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 09:39:59,428 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 09:39:59,428 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 128
+2025-08-07 09:39:59,431 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 09:39:59,434 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 09:39:59,435 - logger - DEBUG - Withdrawal successful [/withdraw] - 138
+2025-08-07 09:40:05,564 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 09:40:05,564 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 09:40:05,564 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 128
+2025-08-07 09:40:05,567 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 09:40:05,568 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 09:40:05,569 - logger - DEBUG - Withdrawal successful [/withdraw] - 138
+2025-08-07 09:40:11,203 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 09:40:11,204 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 09:40:11,204 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 128
+2025-08-07 09:40:11,207 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 09:40:11,210 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 09:40:11,212 - logger - DEBUG - Withdrawal successful [/withdraw] - 138
+2025-08-07 09:41:43,259 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:41:43,259 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:41:43,259 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 09:41:43,263 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 09:41:43,275 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 09:41:43,277 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 09:41:49,539 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:41:49,539 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:41:49,540 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 09:41:54,972 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:41:54,972 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:41:54,972 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 09:41:54,974 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 09:41:54,976 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 09:41:54,977 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 09:42:07,822 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:42:07,822 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:42:07,822 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 09:57:43,891 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 09:57:43,892 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 09:57:43,892 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 09:57:43,902 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 09:57:43,914 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 09:57:43,914 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 09:58:15,337 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:58:15,338 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:58:15,338 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 09:58:15,340 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 09:58:15,342 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 09:58:15,345 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 09:58:30,453 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:58:30,453 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:58:30,453 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 09:58:30,454 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 09:58:30,456 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 09:58:30,457 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 09:58:37,516 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 09:58:37,516 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 09:58:37,516 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 09:58:37,518 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 09:58:37,520 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 09:58:37,522 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 09:58:58,767 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 09:58:58,767 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 09:58:58,767 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 165
+2025-08-07 09:58:58,768 - logger - ERROR - Account not found [/withdraw] - 184
+2025-08-07 09:59:08,564 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 09:59:08,564 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 09:59:08,564 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 165
+2025-08-07 09:59:08,565 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 09:59:08,568 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 09:59:08,569 - logger - DEBUG - Withdrawal successful [/withdraw] - 177
+2025-08-07 09:59:22,300 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 09:59:22,300 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 09:59:22,300 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 165
+2025-08-07 09:59:22,302 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 09:59:22,304 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 09:59:22,306 - logger - DEBUG - Withdrawal successful [/withdraw] - 177
+2025-08-07 10:01:43,490 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 10:01:43,490 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 10:01:43,490 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 10:01:43,491 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:01:43,493 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:01:43,494 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 10:05:03,663 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 10:05:03,664 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 10:05:03,664 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 10:05:28,130 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 10:05:28,130 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 10:05:28,130 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 10:05:28,131 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:05:28,143 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:05:28,145 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 10:05:36,203 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 10:05:36,203 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 10:05:36,203 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 10:05:36,204 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:05:36,206 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:05:36,208 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 10:05:37,199 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 10:05:37,199 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 10:05:37,199 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 10:05:37,200 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:05:37,202 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:05:37,203 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 10:05:38,215 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 10:05:38,215 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 10:05:38,215 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 10:05:38,217 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:05:38,218 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:05:38,220 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 10:05:42,137 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 10:05:42,137 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 10:05:42,137 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 10:05:42,140 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:05:42,142 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:05:42,144 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 10:05:43,698 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 10:05:43,699 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 10:05:43,699 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 10:05:43,700 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:05:43,702 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:05:43,703 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 10:05:44,451 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 10:05:44,451 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 10:05:44,451 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 10:05:44,453 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:05:44,455 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:05:44,457 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 10:06:50,563 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 10:06:50,563 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 10:06:50,563 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 10:06:50,571 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:06:50,586 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:06:50,588 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 10:07:33,415 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:07:33,415 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:07:33,415 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 165
+2025-08-07 10:07:33,421 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:07:33,434 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:07:33,437 - logger - DEBUG - Withdrawal successful [/withdraw] - 177
+2025-08-07 10:07:38,863 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:07:38,863 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:07:38,864 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 165
+2025-08-07 10:07:38,868 - logger - DEBUG - Insufficient balance [/withdraw] - 180
+2025-08-07 10:08:44,077 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 10:08:44,078 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 10:08:44,078 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 10:08:44,081 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:08:44,093 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:08:44,095 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 10:09:03,409 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 10:09:03,409 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 10:09:03,409 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 10:10:03,141 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 10:10:03,142 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 10:10:03,142 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 10:10:05,205 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 10:10:05,205 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 10:10:05,205 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 10:11:47,406 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 10:11:47,406 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 10:11:47,407 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 10:11:47,417 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:11:47,432 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:11:47,432 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 10:18:52,398 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 10:18:52,398 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 10:18:52,398 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 10:18:52,404 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:18:52,415 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:18:52,416 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 10:20:19,472 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 10:20:19,472 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 10:20:19,472 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 10:20:19,475 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:20:19,477 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:20:19,477 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 10:20:35,640 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 10:20:35,640 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 10:20:35,641 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 10:20:35,643 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:20:35,645 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:20:35,648 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 10:20:49,007 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 10:20:49,007 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 10:20:49,007 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 10:21:08,131 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 10:21:08,131 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 10:21:08,131 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 10:21:08,132 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:21:08,134 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:21:08,135 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 10:21:28,864 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:21:28,864 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:21:28,864 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 165
+2025-08-07 10:21:28,866 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:21:28,868 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:21:28,870 - logger - DEBUG - Withdrawal successful [/withdraw] - 177
+2025-08-07 10:21:36,185 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:21:36,185 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:21:36,185 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 165
+2025-08-07 10:21:36,186 - logger - DEBUG - Insufficient balance [/withdraw] - 180
+2025-08-07 10:21:42,906 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:21:42,906 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:21:42,906 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 165
+2025-08-07 10:21:42,907 - logger - ERROR - Account not found [/withdraw] - 184
+2025-08-07 10:23:22,664 - logger - INFO - User just hit /get endpoint  - 19
+2025-08-07 10:23:45,807 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 10:23:45,807 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 10:23:45,807 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 10:23:45,811 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:23:45,812 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:23:45,813 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 10:24:57,401 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 10:24:57,401 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 10:24:57,401 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 10:24:57,404 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:24:57,406 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:24:57,406 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 10:25:15,816 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 10:25:15,816 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 10:25:15,816 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 10:25:15,817 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:25:15,820 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:25:15,821 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 10:25:19,701 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 10:25:19,701 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 10:25:19,701 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 10:25:44,516 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 10:25:44,516 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 10:25:44,517 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 100
+2025-08-07 10:25:44,518 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:25:44,520 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:25:44,521 - logger - DEBUG - Deposit successfully : [/deposit] - 109
+2025-08-07 10:25:54,638 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:25:54,639 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:25:54,639 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 165
+2025-08-07 10:25:54,640 - logger - ERROR - Account not found [/withdraw] - 184
+2025-08-07 10:26:13,696 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:26:13,696 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:26:13,696 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 165
+2025-08-07 10:26:13,698 - logger - DEBUG - Insufficient balance [/withdraw] - 180
+2025-08-07 10:26:18,855 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:26:18,856 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:26:18,856 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 165
+2025-08-07 10:26:18,858 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:26:18,860 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:26:18,862 - logger - DEBUG - Withdrawal successful [/withdraw] - 177
+2025-08-07 10:35:09,223 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 10:35:09,224 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 10:35:09,224 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 141
+2025-08-07 10:35:09,228 - logger - ERROR - Error in get_balance(): list index out of range - 156
+2025-08-07 10:35:15,117 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 10:35:15,117 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 10:35:15,117 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 141
+2025-08-07 10:35:15,119 - logger - DEBUG - Balance show to user [/get-balance] - 149
+2025-08-07 10:35:19,296 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 10:35:19,296 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 10:35:19,296 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 141
+2025-08-07 10:35:19,298 - logger - ERROR - Error in get_balance(): list index out of range - 156
+2025-08-07 10:48:37,704 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 10:48:37,705 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 10:48:37,705 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 170
+2025-08-07 10:48:37,709 - logger - DEBUG - Balance show to user [/get-balance] - 179
+2025-08-07 10:48:46,017 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 10:48:46,017 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 10:48:46,017 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 170
+2025-08-07 10:48:46,019 - logger - ERROR - Account not found - 183
+2025-08-07 10:50:52,730 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 10:50:52,730 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 10:50:52,730 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 10:50:52,741 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:50:52,754 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:50:52,754 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 10:51:48,798 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:51:48,798 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:51:48,798 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 10:51:48,801 - logger - DEBUG - Insufficient balance [/withdraw] - 118
+2025-08-07 10:51:54,120 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:51:54,120 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:51:54,120 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 10:51:54,121 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:51:54,123 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:51:54,126 - logger - DEBUG - Withdrawal successful [/withdraw] - 115
+2025-08-07 10:52:02,936 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:52:02,937 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:52:02,937 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 10:52:06,573 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:52:06,573 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:52:06,574 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 10:52:06,756 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:52:06,756 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:52:06,756 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 10:52:06,971 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:52:06,971 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:52:06,972 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 10:52:07,151 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:52:07,151 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:52:07,151 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 10:52:07,330 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:52:07,331 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:52:07,331 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 10:52:07,549 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:52:07,549 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:52:07,549 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 10:52:07,738 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:52:07,738 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:52:07,738 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 10:52:07,955 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:52:07,956 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:52:07,956 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 10:52:08,189 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:52:08,190 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:52:08,190 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 10:52:08,376 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:52:08,376 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:52:08,376 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 10:52:08,554 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:52:08,554 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:52:08,554 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 10:52:08,763 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:52:08,763 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:52:08,763 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 10:52:08,921 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:52:08,922 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:52:08,922 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 10:52:12,794 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:52:12,794 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:52:12,794 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 10:52:24,437 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:52:24,439 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:52:24,439 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 10:53:12,519 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 10:53:12,519 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 10:53:12,519 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 10:53:12,521 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:53:12,523 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:53:12,523 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 10:53:37,551 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 10:53:37,551 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 10:53:37,551 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 10:53:37,552 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 10:53:37,555 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 10:53:37,556 - logger - DEBUG - Withdrawal successful [/withdraw] - 115
+2025-08-07 10:59:39,020 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 10:59:39,020 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 10:59:39,021 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 170
+2025-08-07 10:59:39,026 - logger - DEBUG - Balance show to user [/get-balance] - 179
+2025-08-07 11:13:29,939 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 11:13:29,940 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 11:13:29,940 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 75
+2025-08-07 11:13:29,944 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 11:13:29,956 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 11:13:29,958 - logger - DEBUG - Deposit successfully : [/deposit] - 84
+2025-08-07 11:47:33,214 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 11:47:33,214 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 11:47:33,214 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 170
+2025-08-07 11:47:33,219 - logger - ERROR - Account not found - 183
+2025-08-07 11:47:39,117 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 11:47:39,117 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 11:47:39,117 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 170
+2025-08-07 11:47:39,119 - logger - DEBUG - Balance show to user [/get-balance] - 179
+2025-08-07 11:58:14,399 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 11:58:14,399 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 11:58:14,399 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 170
+2025-08-07 11:58:14,404 - logger - DEBUG - Balance show to user [/get-balance] - 179
+2025-08-07 12:06:50,209 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 12:06:50,209 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 12:06:50,209 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 170
+2025-08-07 12:06:50,213 - logger - DEBUG - Balance show to user [/get-balance] - 179
+2025-08-07 12:07:19,786 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 12:07:19,786 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 12:07:19,786 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 170
+2025-08-07 12:07:19,790 - logger - DEBUG - Balance show to user [/get-balance] - 179
+2025-08-07 12:07:24,106 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 12:07:24,106 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 12:07:24,106 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 170
+2025-08-07 12:07:24,110 - logger - DEBUG - Balance show to user [/get-balance] - 179
+2025-08-07 12:07:25,051 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 12:07:25,051 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 12:07:25,052 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 170
+2025-08-07 12:07:25,055 - logger - DEBUG - Balance show to user [/get-balance] - 179
+2025-08-07 12:07:33,727 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 12:07:33,727 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 12:07:33,727 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 170
+2025-08-07 12:07:33,731 - logger - DEBUG - Balance show to user [/get-balance] - 179
+2025-08-07 12:07:37,737 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 12:07:37,737 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 12:07:37,738 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 170
+2025-08-07 12:07:37,741 - logger - DEBUG - Balance show to user [/get-balance] - 179
+2025-08-07 12:07:41,326 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 12:07:41,326 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 12:07:41,326 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 170
+2025-08-07 12:07:41,330 - logger - DEBUG - Balance show to user [/get-balance] - 179
+2025-08-07 12:08:06,553 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 12:08:06,553 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 12:08:06,553 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 170
+2025-08-07 12:08:06,558 - logger - DEBUG - Balance show to user [/get-balance] - 179
+2025-08-07 12:12:07,494 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 12:12:07,494 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 12:12:07,494 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 200
+2025-08-07 12:12:07,510 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 211
+2025-08-07 12:14:01,975 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 12:14:01,975 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 12:14:01,975 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 170
+2025-08-07 12:14:01,979 - logger - ERROR - Account not found - 183
+2025-08-07 12:20:40,018 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 12:20:40,019 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 12:20:40,019 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 200
+2025-08-07 12:20:40,038 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 211
+2025-08-07 12:21:19,660 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 12:21:19,660 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 12:21:19,660 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 200
+2025-08-07 12:21:19,679 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 211
+2025-08-07 12:21:27,382 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 12:21:27,382 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 12:21:27,382 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 200
+2025-08-07 12:21:27,401 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 211
+2025-08-07 12:21:36,866 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 12:21:36,866 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 12:21:36,866 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 200
+2025-08-07 12:21:36,878 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 211
+2025-08-07 12:22:12,201 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 12:22:12,201 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 12:22:12,201 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 200
+2025-08-07 12:22:12,215 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 211
+2025-08-07 12:22:32,268 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 12:22:32,268 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 12:22:32,268 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 200
+2025-08-07 12:22:32,281 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 211
+2025-08-07 12:22:58,041 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 12:22:58,041 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 12:22:58,041 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 200
+2025-08-07 12:22:58,053 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 211
+2025-08-07 12:24:02,652 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 12:24:02,652 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 12:24:02,652 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 200
+2025-08-07 12:24:02,669 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 211
+2025-08-07 12:24:10,790 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 12:24:10,790 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 12:24:10,790 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 200
+2025-08-07 12:24:10,801 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 211
+2025-08-07 12:24:18,039 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 12:24:18,040 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 12:24:18,040 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 200
+2025-08-07 12:24:18,056 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 211
+2025-08-07 12:24:42,708 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 12:24:42,708 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 12:24:42,708 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 200
+2025-08-07 12:24:42,720 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 211
+2025-08-07 12:24:43,736 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 12:24:43,736 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 12:24:43,736 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 200
+2025-08-07 12:24:43,747 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 211
+2025-08-07 12:24:49,389 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 12:24:49,389 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 12:24:49,389 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 200
+2025-08-07 12:24:49,405 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 211
+2025-08-07 12:26:14,694 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 12:26:14,694 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 12:26:14,694 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 200
+2025-08-07 12:26:14,695 - logger - ERROR - No transaction history found - 216
+2025-08-07 12:27:10,062 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 12:27:10,062 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 12:27:10,062 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 200
+2025-08-07 12:27:10,075 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 211
+2025-08-07 12:27:34,028 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 12:27:34,028 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 12:27:34,028 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 200
+2025-08-07 12:27:34,041 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 211
+2025-08-07 12:27:51,881 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 12:27:51,881 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 12:27:51,881 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 200
+2025-08-07 12:27:51,895 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 211
+2025-08-07 12:27:58,339 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 12:27:58,339 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 12:27:58,339 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 200
+2025-08-07 12:27:58,358 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 211
+2025-08-07 12:35:27,836 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 12:35:27,836 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 12:35:27,836 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 235
+2025-08-07 12:35:27,840 - logger - ERROR - Account not found - 251
+2025-08-07 12:35:35,153 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 12:35:35,153 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 12:35:35,153 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 235
+2025-08-07 12:35:35,167 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 246
+2025-08-07 12:37:41,702 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 12:37:41,702 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 12:37:41,702 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 12:37:41,706 - logger - ERROR - Account not found - 184
+2025-08-07 12:37:45,176 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 12:37:45,176 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 12:37:45,176 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 12:37:45,186 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 12:37:55,574 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 12:37:55,575 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 12:37:55,575 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 12:37:55,589 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 12:43:26,404 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 12:43:26,404 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 12:43:26,404 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 12:43:26,415 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 12:43:26,427 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 12:43:26,427 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 12:50:13,409 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 12:50:13,409 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 12:50:13,409 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 12:50:13,416 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 12:50:13,427 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 12:50:13,427 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 12:51:33,422 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 12:51:33,422 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 12:51:33,422 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 12:51:33,429 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 12:51:33,440 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 12:51:33,440 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 13:01:40,648 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 13:01:40,648 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 13:01:40,648 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 13:01:40,658 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 13:01:40,669 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 13:01:40,669 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 13:01:52,426 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 13:01:52,426 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 13:01:52,427 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 75
+2025-08-07 13:01:52,429 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 13:01:52,433 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 13:01:52,436 - logger - DEBUG - Deposit successfully : [/deposit] - 84
+2025-08-07 13:01:57,619 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 13:01:57,620 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 13:01:57,620 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 13:01:57,621 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 13:01:57,624 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 13:01:57,626 - logger - DEBUG - Withdrawal successful [/withdraw] - 115
+2025-08-07 13:02:07,880 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 13:02:07,880 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 13:02:07,880 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 138
+2025-08-07 13:02:07,882 - logger - DEBUG - Balance show to user [/get-balance] - 147
+2025-08-07 13:02:13,526 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 13:02:13,527 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 13:02:13,527 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 13:02:13,541 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 13:06:06,365 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 13:06:06,365 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 13:06:06,365 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 13:06:06,374 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 13:07:55,432 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 13:07:55,432 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 13:07:55,432 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 13:07:55,445 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 13:07:55,461 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 13:07:55,461 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 13:10:01,552 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 13:10:01,552 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 13:10:01,553 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 13:10:01,560 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 13:10:01,573 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 13:10:01,573 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 14:24:04,498 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 14:24:04,498 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 14:24:04,498 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 14:24:04,506 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 14:24:04,518 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 14:24:04,518 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 14:24:19,186 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 14:24:19,186 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 14:24:19,187 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 14:24:19,190 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 14:24:19,192 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 14:24:19,192 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 14:30:26,369 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 14:30:26,369 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 14:30:26,369 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 14:30:26,376 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 14:30:26,387 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 14:30:26,387 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 14:32:39,579 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 14:32:39,579 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 14:32:39,579 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 14:32:39,586 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 14:32:39,597 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 14:32:39,597 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 14:34:17,741 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 14:34:17,741 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 14:34:17,741 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 14:34:17,747 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 14:34:17,758 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 14:34:17,759 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 14:36:07,737 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 14:36:07,737 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 14:36:07,737 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 14:36:07,745 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 14:36:07,757 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 14:36:07,757 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 14:36:42,412 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 14:36:42,412 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 14:36:42,412 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 14:36:42,419 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 14:36:42,430 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 14:36:42,430 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 14:37:59,501 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 14:37:59,501 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 14:37:59,501 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 75
+2025-08-07 14:37:59,505 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 14:37:59,516 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 14:37:59,518 - logger - DEBUG - Deposit successfully : [/deposit] - 84
+2025-08-07 14:38:44,190 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 14:38:44,190 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 14:38:44,190 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 14:38:44,194 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 14:38:44,205 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 14:38:44,207 - logger - DEBUG - Withdrawal successful [/withdraw] - 115
+2025-08-07 14:39:03,847 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 14:39:03,847 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 14:39:03,847 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 138
+2025-08-07 14:39:03,851 - logger - DEBUG - Balance show to user [/get-balance] - 147
+2025-08-07 14:39:22,060 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 14:39:22,060 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 14:39:22,060 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 14:39:22,068 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 14:41:11,675 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 14:41:11,675 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 14:41:11,675 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 75
+2025-08-07 14:41:11,679 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 14:41:11,691 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 14:41:11,693 - logger - DEBUG - Deposit successfully : [/deposit] - 84
+2025-08-07 14:45:18,754 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 14:45:18,754 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 14:45:18,754 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 14:45:18,758 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 14:45:18,760 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 14:45:18,761 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 14:46:09,311 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 14:46:09,311 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 14:46:09,311 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 138
+2025-08-07 14:46:09,313 - logger - DEBUG - Balance show to user [/get-balance] - 147
+2025-08-07 14:46:10,969 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 14:46:10,970 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 14:46:10,970 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 138
+2025-08-07 14:46:10,976 - logger - DEBUG - Balance show to user [/get-balance] - 147
+2025-08-07 14:46:18,602 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 14:46:18,602 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 14:46:18,602 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 138
+2025-08-07 14:46:18,604 - logger - ERROR - Account not found - 151
+2025-08-07 14:46:24,585 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 14:46:24,585 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 14:46:24,585 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 138
+2025-08-07 14:46:24,586 - logger - ERROR - Account not found - 151
+2025-08-07 14:46:30,585 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 14:46:30,585 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 14:46:30,585 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 138
+2025-08-07 14:46:30,587 - logger - DEBUG - Balance show to user [/get-balance] - 147
+2025-08-07 14:46:39,385 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 14:46:39,385 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 14:46:39,385 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 14:46:39,389 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 14:47:39,082 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 14:47:39,082 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 14:47:39,082 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 75
+2025-08-07 14:47:39,087 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 14:47:39,088 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 14:47:39,090 - logger - DEBUG - Deposit successfully : [/deposit] - 84
+2025-08-07 14:47:53,052 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 14:47:53,052 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 14:47:53,053 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 138
+2025-08-07 14:47:53,055 - logger - DEBUG - Balance show to user [/get-balance] - 147
+2025-08-07 14:48:04,009 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 14:48:04,010 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 14:48:04,010 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 14:48:04,012 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 14:48:08,116 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 14:48:08,116 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 14:48:08,116 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 14:48:08,119 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 14:48:10,712 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 14:48:10,712 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 14:48:10,712 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 14:48:10,716 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 14:48:14,751 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 14:48:14,751 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 14:48:14,751 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 14:48:14,754 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 14:48:22,129 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 14:48:22,129 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 14:48:22,129 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 14:48:22,132 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 14:49:07,161 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 14:49:07,161 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 14:49:07,161 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 14:49:07,162 - logger - DEBUG - Insufficient balance [/withdraw] - 118
+2025-08-07 14:49:35,656 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 14:49:35,656 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 14:49:35,656 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 14:49:35,657 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 14:49:35,659 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 14:49:35,660 - logger - DEBUG - Withdrawal successful [/withdraw] - 115
+2025-08-07 14:55:43,258 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 14:55:43,259 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 14:55:43,259 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 14:55:43,266 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 14:55:43,269 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 14:55:43,269 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 15:02:30,257 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 15:02:30,258 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 15:02:30,258 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 15:02:30,267 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 15:02:30,278 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 15:02:30,278 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 15:13:40,133 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 15:13:40,134 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 15:13:40,134 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 15:13:40,137 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 15:13:40,138 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 15:13:40,139 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 15:13:55,061 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 15:13:55,061 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 15:13:55,061 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 15:13:55,065 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 15:13:55,066 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 15:13:55,066 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 15:14:27,975 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 15:14:27,975 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 15:14:27,975 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 15:14:27,978 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 15:14:27,980 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 15:14:27,980 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 15:14:53,361 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 15:14:53,361 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 15:14:53,361 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 15:14:53,364 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 15:14:53,365 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 15:14:53,365 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 15:15:00,837 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 15:15:00,837 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 15:15:00,837 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 15:15:00,840 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 15:15:00,841 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 15:15:00,841 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 15:15:57,158 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 15:15:57,158 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 15:15:57,158 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 15:15:57,161 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 15:15:57,162 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 15:15:57,162 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 15:16:41,319 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 15:16:41,320 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 15:16:41,320 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 15:16:41,322 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 15:16:41,323 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 15:16:41,323 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 15:23:04,200 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 15:23:04,200 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 15:23:04,200 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 75
+2025-08-07 15:23:04,207 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 15:23:04,212 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 15:23:04,219 - logger - DEBUG - Deposit successfully : [/deposit] - 84
+2025-08-07 15:23:59,007 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 15:23:59,007 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 15:23:59,007 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 75
+2025-08-07 15:23:59,008 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 15:23:59,010 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 15:23:59,011 - logger - DEBUG - Deposit successfully : [/deposit] - 84
+2025-08-07 15:25:39,972 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 15:25:39,972 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 15:25:39,972 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 75
+2025-08-07 15:25:39,973 - logger - ERROR - Account not found - 88
+2025-08-07 15:26:51,824 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 15:26:51,824 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 15:26:51,824 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 15:26:51,826 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 15:26:51,828 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 15:26:51,830 - logger - DEBUG - Withdrawal successful [/withdraw] - 115
+2025-08-07 15:27:07,051 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 15:27:07,051 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 15:27:07,051 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 15:27:07,053 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 15:27:07,055 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 15:27:07,057 - logger - DEBUG - Withdrawal successful [/withdraw] - 115
+2025-08-07 15:28:01,278 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 15:28:01,278 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 15:28:01,278 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 15:28:01,282 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 15:28:01,296 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 15:28:01,299 - logger - DEBUG - Withdrawal successful [/withdraw] - 115
+2025-08-07 15:30:05,433 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 15:30:05,433 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 15:30:05,433 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 15:30:05,438 - logger - DEBUG - Insufficient balance [/withdraw] - 118
+2025-08-07 15:31:20,060 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 15:31:20,061 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 15:31:20,061 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 15:31:20,062 - logger - ERROR - Account not found [/withdraw] - 122
+2025-08-07 15:31:32,393 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 15:31:32,393 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 15:31:32,393 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 15:31:32,395 - logger - ERROR - Account not found [/withdraw] - 122
+2025-08-07 15:31:54,051 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 15:31:54,052 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 15:31:54,052 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 138
+2025-08-07 15:31:54,053 - logger - DEBUG - Balance show to user [/get-balance] - 147
+2025-08-07 15:32:11,483 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 15:32:11,483 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 15:32:11,483 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 138
+2025-08-07 15:32:11,485 - logger - DEBUG - Balance show to user [/get-balance] - 147
+2025-08-07 15:32:36,242 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 15:32:36,242 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 15:32:36,242 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 138
+2025-08-07 15:32:36,244 - logger - ERROR - Account not found - 151
+2025-08-07 15:33:01,563 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 15:33:01,563 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 15:33:01,563 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 15:33:01,581 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 15:33:17,916 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 15:33:17,916 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 15:33:17,916 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 15:33:17,918 - logger - ERROR - Account not found - 184
+2025-08-07 15:36:17,680 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 15:36:17,680 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 15:36:17,680 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 15:36:17,687 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 15:36:17,700 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 15:36:17,701 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 15:36:23,292 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 15:36:23,292 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 15:36:23,292 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 15:36:23,294 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 15:36:23,296 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 15:36:23,296 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 15:36:24,810 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 15:36:24,810 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 15:36:24,810 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 15:36:24,813 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 15:36:24,815 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 15:36:24,816 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 15:36:26,301 - logger - DEBUG - User just hit [/create-account] endpoint - 32
+2025-08-07 15:36:26,301 - logger - DEBUG - Account info put on create_acc() : [/create-account] - 39
+2025-08-07 15:36:26,301 - logger - DEBUG - All account details get by create(): [/create-account] - 51
+2025-08-07 15:36:26,304 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 15:36:26,306 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 15:36:26,306 - logger - DEBUG - Account created successfully : [/create-account] - 61
+2025-08-07 15:36:50,122 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 15:36:50,122 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 15:36:50,122 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 75
+2025-08-07 15:36:50,124 - logger - ERROR - Account not found - 88
+2025-08-07 15:36:56,087 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 15:36:56,087 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 15:36:56,087 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 75
+2025-08-07 15:36:56,088 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 15:36:56,090 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 15:36:56,091 - logger - DEBUG - Deposit successfully : [/deposit] - 84
+2025-08-07 15:37:08,170 - logger - DEBUG - User just hit [/withdraw] endpoint - 80
+2025-08-07 15:37:08,170 - logger - DEBUG - Account info put on withdraw() : [/withdraw] - 87
+2025-08-07 15:37:08,170 - logger - DEBUG - All withdraw details get by withdraw_amount(): [/withdraw] - 103
+2025-08-07 15:37:08,171 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 15:37:08,173 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 15:37:08,174 - logger - DEBUG - Withdrawal successful [/withdraw] - 115
+2025-08-07 15:37:18,976 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 15:37:18,976 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 15:37:18,976 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 138
+2025-08-07 15:37:18,978 - logger - DEBUG - Balance show to user [/get-balance] - 147
+2025-08-07 15:37:20,447 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 15:37:20,447 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 15:37:20,448 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 138
+2025-08-07 15:37:20,451 - logger - DEBUG - Balance show to user [/get-balance] - 147
+2025-08-07 15:37:21,726 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 15:37:21,726 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 15:37:21,726 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 138
+2025-08-07 15:37:21,727 - logger - DEBUG - Balance show to user [/get-balance] - 147
+2025-08-07 15:37:23,063 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 15:37:23,063 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 15:37:23,064 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 138
+2025-08-07 15:37:23,065 - logger - DEBUG - Balance show to user [/get-balance] - 147
+2025-08-07 15:37:25,057 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 15:37:25,057 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 15:37:25,057 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 138
+2025-08-07 15:37:25,059 - logger - DEBUG - Balance show to user [/get-balance] - 147
+2025-08-07 15:37:30,185 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 15:37:30,185 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 15:37:30,185 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 15:37:30,193 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 15:37:35,897 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 15:37:35,897 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 15:37:35,897 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 15:37:35,901 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 15:37:39,580 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 15:37:39,580 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 15:37:39,580 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 15:37:39,583 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 15:37:44,813 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 15:37:44,813 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 15:37:44,813 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 15:37:44,817 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 15:37:48,500 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 15:37:48,500 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 15:37:48,501 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 15:37:48,504 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 15:37:52,069 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 15:37:52,070 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 15:37:52,070 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 15:37:52,073 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 15:37:55,681 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 15:37:55,681 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 15:37:55,681 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 15:37:55,688 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 15:37:57,984 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 15:37:57,984 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 15:37:57,984 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 15:37:57,987 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 15:38:02,154 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 15:38:02,154 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 15:38:02,154 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 15:38:02,157 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 15:38:08,166 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 15:38:08,166 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 15:38:08,166 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 15:38:08,170 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 15:38:12,103 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 15:38:12,103 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 15:38:12,103 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 15:38:12,106 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 15:38:13,791 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 15:38:13,791 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 15:38:13,791 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 15:38:13,797 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 15:38:14,914 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 15:38:14,914 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 15:38:14,914 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 15:38:14,927 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 15:38:18,884 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 15:38:18,885 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 15:38:18,885 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 15:38:18,888 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 15:38:22,903 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 15:38:22,904 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 15:38:22,904 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 15:38:22,908 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 15:38:25,834 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 15:38:25,834 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 15:38:25,834 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 138
+2025-08-07 15:38:25,836 - logger - DEBUG - Balance show to user [/get-balance] - 147
+2025-08-07 15:38:27,610 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 15:38:27,610 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 15:38:27,610 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 138
+2025-08-07 15:38:27,612 - logger - DEBUG - Balance show to user [/get-balance] - 147
+2025-08-07 15:41:11,562 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 15:41:11,562 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 15:41:11,562 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 15:41:11,568 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 15:44:03,404 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 15:44:03,404 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 15:44:03,404 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 15:44:03,409 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 15:52:23,520 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 15:52:23,520 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 15:52:23,520 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 15:52:23,526 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 15:54:09,463 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 15:54:09,463 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 15:54:09,463 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 15:54:09,479 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 16:21:33,354 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 16:21:33,354 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 16:21:33,354 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 16:21:33,376 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 16:21:58,195 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 16:21:58,195 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 16:21:58,195 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 16:21:58,209 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 16:23:17,548 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 16:23:17,548 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 16:23:17,548 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 16:23:17,568 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 16:27:39,606 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 16:27:39,606 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 16:27:39,606 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 16:27:39,625 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 16:27:45,797 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 16:27:45,797 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 16:27:45,797 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 16:27:45,814 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 16:28:13,983 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 16:28:13,983 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 16:28:13,983 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 16:28:14,001 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 16:28:52,974 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 16:28:52,975 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 16:28:52,975 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 16:28:53,007 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 16:29:18,675 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 16:29:18,675 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 16:29:18,675 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 16:29:18,693 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 16:30:19,681 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 16:30:19,681 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 16:30:19,681 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 16:30:19,694 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 16:30:26,981 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 16:30:26,981 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 16:30:26,981 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 16:30:26,987 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 16:30:48,778 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 16:30:48,778 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 16:30:48,778 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 138
+2025-08-07 16:30:48,783 - logger - DEBUG - Balance show to user [/get-balance] - 147
+2025-08-07 16:30:51,456 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 16:30:51,456 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 16:30:51,456 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 138
+2025-08-07 16:30:51,458 - logger - DEBUG - Balance show to user [/get-balance] - 147
+2025-08-07 16:30:57,123 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 16:30:57,123 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 16:30:57,123 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 138
+2025-08-07 16:30:57,124 - logger - DEBUG - Balance show to user [/get-balance] - 147
+2025-08-07 16:31:00,662 - logger - DEBUG - User just hit [/get-balance] endpoint - 105
+2025-08-07 16:31:00,662 - logger - DEBUG - Account info put on get_balance() : [/get-balance] - 112
+2025-08-07 16:31:00,663 - logger - DEBUG - All get-balance details get by get_bal(): [/get-balance] - 138
+2025-08-07 16:31:00,667 - logger - DEBUG - Balance show to user [/get-balance] - 147
+2025-08-07 16:31:05,156 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 16:31:05,156 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 16:31:05,156 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 16:31:05,160 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 16:32:11,814 - logger - DEBUG - User just hit [/view_transaction] endpoint - 129
+2025-08-07 16:32:11,814 - logger - DEBUG - Account info put on view_transaction_history() : [/view-transaction] - 136
+2025-08-07 16:32:11,814 - logger - DEBUG - All view_history details get by view_transaction(): [/view_transaction] - 168
+2025-08-07 16:32:11,828 - logger - DEBUG - ALl transaction history show to user [/view_transaction] - 179
+2025-08-07 16:34:31,384 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 16:34:31,385 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 16:34:31,385 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 75
+2025-08-07 16:34:31,388 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 16:34:31,404 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 16:34:31,406 - logger - DEBUG - Deposit successfully : [/deposit] - 84
+2025-08-07 16:35:19,715 - logger - DEBUG - User just hit [/deposit] endpoint - 56
+2025-08-07 16:35:19,715 - logger - DEBUG - Account info put on deposit() : [/deposit] - 63
+2025-08-07 16:35:19,715 - logger - DEBUG - All deposit details get by deposit_amount(): [/deposit] - 75
+2025-08-07 16:35:19,719 - logger - DEBUG - log_transaction() get all info - 35
+2025-08-07 16:35:19,731 - logger - DEBUG - Log_transaction() Enter all details in database - 39
+2025-08-07 16:35:19,733 - logger - DEBUG - Deposit successfully : [/deposit] - 84

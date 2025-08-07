@@ -39,5 +39,3 @@ class WithdrawModule(BaseModel):
     
     account_number: Annotated[int, Field(..., description="Enter Your Account Number", example=1)]
     amount: Annotated[float, Field(..., gt=0, description="Enter Withdraw Amount")]
-    
-
